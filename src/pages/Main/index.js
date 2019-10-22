@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 import api from '../../services/api';
 
-import Container from '../../Components/Container';
+import Container from '../../components/Container';
 
 import { Form, SubmitButton, List } from './styles';
 
